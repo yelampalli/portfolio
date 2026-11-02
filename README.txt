@@ -1,5 +1,5 @@
-Akhila Yelampalle Portfolio
+Akhila Portfolio
 
-Open index.html to view the portfolio.
-Keep the assets folder beside index.html.
-To publish a public website URL, deploy this complete folder to Netlify, GitHub Pages, or Vercel.
+Open index.html in a browser to view the portfolio.
+The profile photo is stored in assets/akhila-profile.png.
+To publish online, upload this complete folder to Netlify or GitHub Pages.
